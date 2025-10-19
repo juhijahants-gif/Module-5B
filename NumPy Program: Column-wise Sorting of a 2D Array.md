@@ -26,7 +26,8 @@ print(f"\n{np.sort(arr,axis=0)}")
 
 
 ## Output
-![Uploading WhatsApp Image 2025-10-19 at 20.02.57_8b3124f6.jpg…]()
+![WhatsApp Image 2025-10-19 at 20 02 57_d0e3624a](https://github.com/user-attachments/assets/0e66977c-c84e-40ac-a278-7e829ad11033)
+
 
 
 
